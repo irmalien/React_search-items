@@ -11,8 +11,13 @@
 # production
 /build
 
-# misc
+
+#custom
 createReactapp.txt
+src/api/*
+
+# misc
+
 .DS_Store
 .env.local
 .env.development.local
